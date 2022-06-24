@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/userModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/userModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routers/userRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routers/userRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.deps/Release/obj.target/fse/fsevents.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.deps/Release/obj.target/fse/fsevents.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.node" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/fse.node" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/fse.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/binding.Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/binding.Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/config.gypi" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/config.gypi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/fse.target.mk" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/fse.target.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/gyp-mac-tool" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/gyp-mac-tool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ini/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ini/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/localStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/localStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ky8IaLOmJVRbZDOgsfM36XA2wG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/components" />
+      <recent name="$PROJECT_DIR$/frontend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$/frontend/src/screens" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="" />
+      <created>1606661392951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606661392951</updated>
+      <workItem from="1606661394340" duration="4648000" />
+      <workItem from="1607185456839" duration="13476000" />
+      <workItem from="1607292416471" duration="981000" />
+      <workItem from="1607782538642" duration="2252000" />
+      <workItem from="1607793112671" duration="1962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="245" key="#Inspections" timestamp="1607888534925">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="530" y="245" key="#Inspections/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607888534925" />
+    <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607291696242">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607291329059" />
+    <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1607291696242" />
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1607806156525">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607806156525" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center" timestamp="1607806156524">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607806156524" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left" timestamp="1607806156523">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607806156523" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right" timestamp="1607806156525">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607806156525" />
+    <state x="594" y="315" width="604" height="490" key="find.popup" timestamp="1607885288724">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="594" y="315" width="604" height="490" key="find.popup/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607885288724" />
+    <state x="2428" y="304" width="648" height="490" key="find.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1607681669641" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1607191919610">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607191919610" />
+  </component>
+</project>
